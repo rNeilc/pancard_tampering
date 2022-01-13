@@ -10,7 +10,7 @@ class Config(object):
 
     SECRET_KEY = 'cristi'
 
-    UPLOADS = ".\pancard_tampering-main\app\static"
+    UPLOADS = "/home/username/app/app/static/uploads"
 
     SESSION_CCOKIE_SECURE = True
     DEFAULT_THEME = None
